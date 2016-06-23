@@ -1,0 +1,4196 @@
+# Auto-generated phrase file for the dragonbot
+# Generated from files: phrase.yaml script1.txt script2.txt script3.txt script4.txt script5.txt script6.txt
+
+and:
+  behaviors:
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.299
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.386
+    type: viseme
+  - id: IDLE
+    start: 0.48
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/and.wav
+  text: '"And."'
+blue:
+  behaviors:
+  - id: blink
+    start: 0.047
+    type: action
+  - id: neutral
+    start: 2.334
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.136
+    type: viseme
+  - id: M_B_P
+    start: 0.272
+    type: viseme
+  - id: AA_AH
+    start: 0.354
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.515
+    type: viseme
+  - id: EY
+    start: 0.587
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.629
+    type: viseme
+  - id: M_B_P
+    start: 0.7
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.784
+    type: viseme
+  - id: AO_AW
+    start: 0.897
+    type: viseme
+  - id: IDLE
+    start: 1.105
+    type: viseme
+  - id: EY
+    start: 1.498
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.58
+    type: viseme
+  - id: M_B_P
+    start: 1.645
+    type: viseme
+  - id: AA_AH
+    start: 1.752
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.85
+    type: viseme
+  - id: AA_AH
+    start: 1.956
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.009
+    type: viseme
+  - id: M_B_P
+    start: 2.104
+    type: viseme
+  - id: AA_AH
+    start: 2.171
+    type: viseme
+  - id: AA_AH
+    start: 2.334
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.589
+    type: viseme
+  - id: IDLE
+    start: 2.763
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/blue.wav
+  text: '" My mouth  is blue! It matches my  eyes."'
+complete_animal:
+  behaviors:
+  - id: blink
+    start: 1.226
+    type: action
+  - id: lookleft
+    start: 2.85
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: EY
+    start: 0.122
+    type: viseme
+  - id: AA_AH
+    start: 0.253
+    type: viseme
+  - id: IDLE
+    start: 0.576
+    type: viseme
+  - id: M_B_P
+    start: 0.969
+    type: viseme
+  - id: AA_AH
+    start: 1.021
+    type: viseme
+  - id: R_ER
+    start: 1.091
+    type: viseme
+  - id: AA_AH
+    start: 1.144
+    type: viseme
+  - id: M_B_P
+    start: 1.226
+    type: viseme
+  - id: AA_AH
+    start: 1.306
+    type: viseme
+  - id: R_ER
+    start: 1.474
+    type: viseme
+  - id: AA_AH
+    start: 1.525
+    type: viseme
+  - id: IDLE
+    start: 1.645
+    type: viseme
+  - id: AO_AW
+    start: 2.039
+    type: viseme
+  - id: AO_AW
+    start: 2.119
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.161
+    type: viseme
+  - id: AA_AH
+    start: 2.201
+    type: viseme
+  - id: AA_AH
+    start: 2.278
+    type: viseme
+  - id: EY
+    start: 2.384
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.46
+    type: viseme
+  - id: AA_AH
+    start: 2.498
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.567
+    type: viseme
+  - id: AA_AH
+    start: 2.654
+    type: viseme
+  - id: AA_AH
+    start: 2.764
+    type: viseme
+  - id: AO_AW
+    start: 2.85
+    type: viseme
+  - id: EY
+    start: 2.886
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.916
+    type: viseme
+  - id: EY
+    start: 2.967
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.018
+    type: viseme
+  - id: M_B_P
+    start: 3.098
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.209
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.31
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.458
+    type: viseme
+  - id: IDLE
+    start: 3.632
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_animal.wav
+  text: '"Meow! Bark  bark! Would I get along  with your pets?"'
+complete_astronaut:
+  behaviors:
+  - id: lookleft
+    start: 0.047
+    type: action
+  - id: blink
+    start: 1.507
+    type: action
+  - id: lookright
+    start: 2.728
+    type: action
+  - id: neutral
+    start: 4.872
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.163
+    type: viseme
+  - id: AA_AH
+    start: 0.247
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.287
+    type: viseme
+  - id: AA_AH
+    start: 0.364
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.502
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.597
+    type: viseme
+  - id: R_ER
+    start: 0.664
+    type: viseme
+  - id: AA_AH
+    start: 0.703
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.731
+    type: viseme
+  - id: AA_AH
+    start: 0.793
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.94
+    type: viseme
+  - id: IDLE
+    start: 1.114
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.507
+    type: viseme
+  - id: AO_AW
+    start: 1.56
+    type: viseme
+  - id: EY
+    start: 1.614
+    type: viseme
+  - id: AO_AW
+    start: 1.689
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.742
+    type: viseme
+  - id: EY
+    start: 1.87
+    type: viseme
+  - id: AA_AH
+    start: 1.932
+    type: viseme
+  - id: AA_AH
+    start: 2.021
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.07
+    type: viseme
+  - id: EY
+    start: 2.129
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.223
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.31
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.398
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.479
+    type: viseme
+  - id: M_B_P
+    start: 2.537
+    type: viseme
+  - id: EY
+    start: 2.618
+    type: viseme
+  - id: AA_AH
+    start: 2.728
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.869
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.925
+    type: viseme
+  - id: AO_AW
+    start: 2.997
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.067
+    type: viseme
+  - id: EY
+    start: 3.114
+    type: viseme
+  - id: EY
+    start: 3.184
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.247
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.284
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.384
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.434
+    type: viseme
+  - id: AA_AH
+    start: 3.496
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.597
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.73
+    type: viseme
+  - id: AA_AH
+    start: 3.758
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.812
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.881
+    type: viseme
+  - id: M_B_P
+    start: 3.976
+    type: viseme
+  - id: EY
+    start: 4.054
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.175
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.271
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.365
+    type: viseme
+  - id: EY
+    start: 4.44
+    type: viseme
+  - id: CH_SH_ZH
+    start: 4.549
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.669
+    type: viseme
+  - id: IDLE
+    start: 4.872
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_astronaut.wav
+  text: '" I''m an astronaut  ! Do you think they''ll let  me on to the International
+    Space  Station?"'
+complete_clown:
+  behaviors:
+  - id: lookright
+    start: 1.157
+    type: action
+  - id: blink
+    start: 3.407
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.12
+    type: viseme
+  - id: AA_AH
+    start: 0.245
+    type: viseme
+  - id: AA_AH
+    start: 0.284
+    type: viseme
+  - id: AA_AH
+    start: 0.347
+    type: viseme
+  - id: AA_AH
+    start: 0.4
+    type: viseme
+  - id: AA_AH
+    start: 0.565
+    type: viseme
+  - id: AA_AH
+    start: 0.677
+    type: viseme
+  - id: IDLE
+    start: 0.764
+    type: viseme
+  - id: EY
+    start: 1.157
+    type: viseme
+  - id: M_B_P
+    start: 1.214
+    type: viseme
+  - id: AO_AW
+    start: 1.297
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.394
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.465
+    type: viseme
+  - id: EY
+    start: 1.533
+    type: viseme
+  - id: AA_AH
+    start: 1.643
+    type: viseme
+  - id: AA_AH
+    start: 1.813
+    type: viseme
+  - id: AA_AH
+    start: 1.901
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.976
+    type: viseme
+  - id: AA_AH
+    start: 2.017
+    type: viseme
+  - id: R_ER
+    start: 2.217
+    type: viseme
+  - id: M_B_P
+    start: 2.324
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.405
+    type: viseme
+  - id: IDLE
+    start: 2.538
+    type: viseme
+  - id: AA_AH
+    start: 2.732
+    type: viseme
+  - id: AA_AH
+    start: 2.888
+    type: viseme
+  - id: AO_AW
+    start: 2.991
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.041
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.095
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.192
+    type: viseme
+  - id: AA_AH
+    start: 3.269
+    type: viseme
+  - id: AA_AH
+    start: 3.34
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.367
+    type: viseme
+  - id: M_B_P
+    start: 3.407
+    type: viseme
+  - id: AA_AH
+    start: 3.5
+    type: viseme
+  - id: R_ER
+    start: 3.531
+    type: viseme
+  - id: EY
+    start: 3.57
+    type: viseme
+  - id: AO_AW
+    start: 3.741
+    type: viseme
+  - id: IDLE
+    start: 3.934
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_clown.wav
+  text: '"Honk honk!  If only I had arms, I could juggle  for you!"'
+complete_dinosaur:
+  behaviors:
+  - id: lookleft
+    start: 0.321
+    type: action
+  - id: blink
+    start: 2.694
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.163
+    type: viseme
+  - id: AA_AH
+    start: 0.262
+    type: viseme
+  - id: M_B_P
+    start: 0.321
+    type: viseme
+  - id: EY
+    start: 0.439
+    type: viseme
+  - id: R_ER
+    start: 0.532
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.608
+    type: viseme
+  - id: M_B_P
+    start: 0.717
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.835
+    type: viseme
+  - id: AA_AH
+    start: 0.886
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.02
+    type: viseme
+  - id: AA_AH
+    start: 1.084
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.148
+    type: viseme
+  - id: AA_AH
+    start: 1.23
+    type: viseme
+  - id: R_ER
+    start: 1.339
+    type: viseme
+  - id: IDLE
+    start: 1.454
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.847
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.95
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.058
+    type: viseme
+  - id: M_B_P
+    start: 2.158
+    type: viseme
+  - id: EY
+    start: 2.242
+    type: viseme
+  - id: AA_AH
+    start: 2.36
+    type: viseme
+  - id: EY
+    start: 2.425
+    type: viseme
+  - id: R_ER
+    start: 2.493
+    type: viseme
+  - id: EY
+    start: 2.561
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.619
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.694
+    type: viseme
+  - id: EY
+    start: 2.776
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.874
+    type: viseme
+  - id: AO_AW
+    start: 2.952
+    type: viseme
+  - id: R_ER
+    start: 3.105
+    type: viseme
+  - id: AA_AH
+    start: 3.197
+    type: viseme
+  - id: R_ER
+    start: 3.362
+    type: viseme
+  - id: IDLE
+    start: 3.479
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_dinosaur.wav
+  text: '"I''m a  fearsome dinosaur! Let me hear your  dino roar!"'
+complete_doctor:
+  behaviors:
+  - id: blink
+    start: 0.533
+    type: action
+  - id: lookright
+    start: 2.842
+    type: action
+  - id: R_ER
+    start: 0.047
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.167
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.229
+    type: viseme
+  - id: EY
+    start: 0.27
+    type: viseme
+  - id: M_B_P
+    start: 0.351
+    type: viseme
+  - id: AA_AH
+    start: 0.468
+    type: viseme
+  - id: R_ER
+    start: 0.495
+    type: viseme
+  - id: EY
+    start: 0.533
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.591
+    type: viseme
+  - id: CH_SH_ZH
+    start: 0.675
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.822
+    type: viseme
+  - id: AA_AH
+    start: 0.9
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.026
+    type: viseme
+  - id: M_B_P
+    start: 1.189
+    type: viseme
+  - id: IDLE
+    start: 1.327
+    type: viseme
+  - id: EY
+    start: 1.72
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.784
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.846
+    type: viseme
+  - id: M_B_P
+    start: 1.939
+    type: viseme
+  - id: EY
+    start: 2.01
+    type: viseme
+  - id: IDLE
+    start: 2.279
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.473
+    type: viseme
+  - id: AA_AH
+    start: 2.503
+    type: viseme
+  - id: AA_AH
+    start: 2.6
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.691
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.744
+    type: viseme
+  - id: AA_AH
+    start: 2.842
+    type: viseme
+  - id: M_B_P
+    start: 3.03
+    type: viseme
+  - id: EY
+    start: 3.098
+    type: viseme
+  - id: IDLE
+    start: 3.277
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_doctor.wav
+  text: '"Ready for  your checkup? It''s me, doctor  Ivy!"'
+complete_none:
+  behaviors:
+  - id: blink
+    start: 0.745
+    type: action
+  - id: lookleft
+    start: 1.674
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: EY
+    start: 0.117
+    type: viseme
+  - id: AA_AH
+    start: 0.162
+    type: viseme
+  - id: AA_AH
+    start: 0.261
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.417
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.469
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.589
+    type: viseme
+  - id: M_B_P
+    start: 0.659
+    type: viseme
+  - id: AA_AH
+    start: 0.745
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.85
+    type: viseme
+  - id: AO_AW
+    start: 0.923
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.095
+    type: viseme
+  - id: M_B_P
+    start: 1.183
+    type: viseme
+  - id: AA_AH
+    start: 1.257
+    type: viseme
+  - id: R_ER
+    start: 1.288
+    type: viseme
+  - id: M_B_P
+    start: 1.323
+    type: viseme
+  - id: EY
+    start: 1.428
+    type: viseme
+  - id: IDLE
+    start: 1.674
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_none.wav
+  text: '"Pick out some  clothes for me !"'
+complete_surgeon:
+  behaviors:
+  - id: lookleft
+    start: 1.279
+    type: action
+  - id: blink
+    start: 4.526
+    type: action
+  - id: R_ER
+    start: 0.047
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.12
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.163
+    type: viseme
+  - id: EY
+    start: 0.201
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.283
+    type: viseme
+  - id: AO_AW
+    start: 0.335
+    type: viseme
+  - id: AA_AH
+    start: 0.458
+    type: viseme
+  - id: M_B_P
+    start: 0.648
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.727
+    type: viseme
+  - id: EY
+    start: 0.822
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.96
+    type: viseme
+  - id: IDLE
+    start: 1.085
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.279
+    type: viseme
+  - id: AA_AH
+    start: 1.297
+    type: viseme
+  - id: AA_AH
+    start: 1.42
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.505
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.531
+    type: viseme
+  - id: IDLE
+    start: 1.7
+    type: viseme
+  - id: AA_AH
+    start: 2.093
+    type: viseme
+  - id: AA_AH
+    start: 2.252
+    type: viseme
+  - id: AA_AH
+    start: 2.364
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.418
+    type: viseme
+  - id: M_B_P
+    start: 2.478
+    type: viseme
+  - id: EY
+    start: 2.53
+    type: viseme
+  - id: AA_AH
+    start: 2.612
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.661
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.792
+    type: viseme
+  - id: CH_SH_ZH
+    start: 2.962
+    type: viseme
+  - id: EY
+    start: 3.078
+    type: viseme
+  - id: AA_AH
+    start: 3.115
+    type: viseme
+  - id: AA_AH
+    start: 3.199
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.24
+    type: viseme
+  - id: R_ER
+    start: 3.31
+    type: viseme
+  - id: AO_AW
+    start: 3.386
+    type: viseme
+  - id: M_B_P
+    start: 3.488
+    type: viseme
+  - id: AA_AH
+    start: 3.557
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.727
+    type: viseme
+  - id: IDLE
+    start: 3.887
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.081
+    type: viseme
+  - id: AO_AW
+    start: 4.168
+    type: viseme
+  - id: IDLE
+    start: 4.526
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_surgeon.wav
+  text: '"Ready to operate,  doctor! I can be a surgical robot, too !"'
+complete_teacher:
+  behaviors:
+  - id: blink
+    start: 0.421
+    type: action
+  - id: lookleft
+    start: 3.702
+    type: action
+  - id: N_NG_D_Z
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.082
+    type: viseme
+  - id: M_B_P
+    start: 0.194
+    type: viseme
+  - id: EY
+    start: 0.311
+    type: viseme
+  - id: AA_AH
+    start: 0.421
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.467
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.585
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.642
+    type: viseme
+  - id: CH_SH_ZH
+    start: 0.705
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.836
+    type: viseme
+  - id: AA_AH
+    start: 0.931
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.024
+    type: viseme
+  - id: AA_AH
+    start: 1.052
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.209
+    type: viseme
+  - id: IDLE
+    start: 1.38
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.774
+    type: viseme
+  - id: AO_AW
+    start: 1.805
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.905
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.932
+    type: viseme
+  - id: AO_AW
+    start: 1.967
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.079
+    type: viseme
+  - id: EY
+    start: 2.206
+    type: viseme
+  - id: IDLE
+    start: 2.383
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.577
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.644
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.734
+    type: viseme
+  - id: AA_AH
+    start: 2.785
+    type: viseme
+  - id: M_B_P
+    start: 2.842
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.918
+    type: viseme
+  - id: EY
+    start: 2.959
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.003
+    type: viseme
+  - id: AO_AW
+    start: 3.084
+    type: viseme
+  - id: EY
+    start: 3.151
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.193
+    type: viseme
+  - id: M_B_P
+    start: 3.226
+    type: viseme
+  - id: EY
+    start: 3.316
+    type: viseme
+  - id: AA_AH
+    start: 3.414
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.568
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.64
+    type: viseme
+  - id: AA_AH
+    start: 3.674
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.702
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.816
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.99
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.121
+    type: viseme
+  - id: IDLE
+    start: 4.228
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_teacher.wav
+  text: '"Now pay  attention class! Don''t worry, none of this will be on the  test."'
+complete_wizard:
+  behaviors:
+  - id: lookright
+    start: 1.192
+    type: action
+  - id: blink
+    start: 3.034
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.161
+    type: viseme
+  - id: R_ER
+    start: 0.23
+    type: viseme
+  - id: AA_AH
+    start: 0.281
+    type: viseme
+  - id: AA_AH
+    start: 0.314
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.404
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.485
+    type: viseme
+  - id: AA_AH
+    start: 0.512
+    type: viseme
+  - id: M_B_P
+    start: 0.554
+    type: viseme
+  - id: R_ER
+    start: 0.612
+    type: viseme
+  - id: AA_AH
+    start: 0.677
+    type: viseme
+  - id: IDLE
+    start: 0.799
+    type: viseme
+  - id: AA_AH
+    start: 1.192
+    type: viseme
+  - id: AO_AW
+    start: 1.259
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.32
+    type: viseme
+  - id: EY
+    start: 1.417
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.559
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.606
+    type: viseme
+  - id: AA_AH
+    start: 1.679
+    type: viseme
+  - id: R_ER
+    start: 1.811
+    type: viseme
+  - id: M_B_P
+    start: 1.858
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.914
+    type: viseme
+  - id: AO_AW
+    start: 2.017
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.128
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.178
+    type: viseme
+  - id: EY
+    start: 2.229
+    type: viseme
+  - id: AO_AW
+    start: 2.32
+    type: viseme
+  - id: AA_AH
+    start: 2.353
+    type: viseme
+  - id: AA_AH
+    start: 2.444
+    type: viseme
+  - id: M_B_P
+    start: 2.492
+    type: viseme
+  - id: M_B_P
+    start: 2.55
+    type: viseme
+  - id: AA_AH
+    start: 2.65
+    type: viseme
+  - id: CH_SH_ZH
+    start: 2.759
+    type: viseme
+  - id: EY
+    start: 2.852
+    type: viseme
+  - id: AA_AH
+    start: 2.911
+    type: viseme
+  - id: IDLE
+    start: 3.034
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/complete_wizard.wav
+  text: '"Abra kedabra ! Who needs arms when you have  magic!"'
+cyan:
+  behaviors:
+  - id: blink
+    start: 0.703
+    type: action
+  - id: lookleft
+    start: 2.065
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.136
+    type: viseme
+  - id: M_B_P
+    start: 0.272
+    type: viseme
+  - id: AA_AH
+    start: 0.354
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.515
+    type: viseme
+  - id: EY
+    start: 0.587
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.629
+    type: viseme
+  - id: AA_AH
+    start: 0.703
+    type: viseme
+  - id: M_B_P
+    start: 0.741
+    type: viseme
+  - id: R_ER
+    start: 0.858
+    type: viseme
+  - id: EY
+    start: 0.892
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.926
+    type: viseme
+  - id: EY
+    start: 0.956
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.062
+    type: viseme
+  - id: AA_AH
+    start: 1.14
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.26
+    type: viseme
+  - id: M_B_P
+    start: 1.311
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.404
+    type: viseme
+  - id: AO_AW
+    start: 1.463
+    type: viseme
+  - id: IDLE
+    start: 1.672
+    type: viseme
+  - id: EY
+    start: 2.065
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.125
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.195
+    type: viseme
+  - id: EY
+    start: 2.275
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.45
+    type: viseme
+  - id: EY
+    start: 2.505
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.616
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.706
+    type: viseme
+  - id: AO_AW
+    start: 2.767
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.828
+    type: viseme
+  - id: EY
+    start: 2.953
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.057
+    type: viseme
+  - id: EY
+    start: 3.122
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.178
+    type: viseme
+  - id: AO_AW
+    start: 3.28
+    type: viseme
+  - id: EY
+    start: 3.422
+    type: viseme
+  - id: IDLE
+    start: 3.672
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.866
+    type: viseme
+  - id: AO_AW
+    start: 3.897
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.964
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.993
+    type: viseme
+  - id: EY
+    start: 4.021
+    type: viseme
+  - id: AO_AW
+    start: 4.125
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.15
+    type: viseme
+  - id: EY
+    start: 4.273
+    type: viseme
+  - id: AA_AH
+    start: 4.345
+    type: viseme
+  - id: AA_AH
+    start: 4.443
+    type: viseme
+  - id: IDLE
+    start: 4.56
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/cyan.wav
+  text: '"My mouth is  a pretty light blue.  It''s easier to see this way, don''t
+    you think?"'
+explain:
+  behaviors:
+  - id: blink
+    start: 0.047
+    type: action
+  - id: lookleft
+    start: 1.86
+    type: action
+  - id: blink
+    start: 4.209
+    type: action
+  - id: lookright
+    start: 6.245
+    type: action
+  - id: blink
+    start: 6.967
+    type: action
+  - id: neutral
+    start: 8.211
+    type: action
+  - id: blink
+    start: 9.456
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.11
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.169
+    type: viseme
+  - id: AA_AH
+    start: 0.267
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.413
+    type: viseme
+  - id: EY
+    start: 0.495
+    type: viseme
+  - id: M_B_P
+    start: 0.579
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.686
+    type: viseme
+  - id: EY
+    start: 0.737
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.83
+    type: viseme
+  - id: AA_AH
+    start: 0.93
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.993
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.09
+    type: viseme
+  - id: AA_AH
+    start: 1.156
+    type: viseme
+  - id: AA_AH
+    start: 1.2
+    type: viseme
+  - id: AA_AH
+    start: 1.281
+    type: viseme
+  - id: EY
+    start: 1.348
+    type: viseme
+  - id: R_ER
+    start: 1.423
+    type: viseme
+  - id: IDLE
+    start: 1.673
+    type: viseme
+  - id: EY
+    start: 1.86
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.953
+    type: viseme
+  - id: EY
+    start: 1.991
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.047
+    type: viseme
+  - id: AA_AH
+    start: 2.128
+    type: viseme
+  - id: AA_AH
+    start: 2.201
+    type: viseme
+  - id: R_ER
+    start: 2.281
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.327
+    type: viseme
+  - id: M_B_P
+    start: 2.384
+    type: viseme
+  - id: AA_AH
+    start: 2.437
+    type: viseme
+  - id: R_ER
+    start: 2.488
+    type: viseme
+  - id: AA_AH
+    start: 2.518
+    type: viseme
+  - id: R_ER
+    start: 2.549
+    type: viseme
+  - id: AO_AW
+    start: 2.673
+    type: viseme
+  - id: M_B_P
+    start: 2.764
+    type: viseme
+  - id: AA_AH
+    start: 2.832
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.002
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.163
+    type: viseme
+  - id: AO_AW
+    start: 3.223
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.333
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.432
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.481
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.538
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.606
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.7
+    type: viseme
+  - id: AA_AH
+    start: 3.774
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.915
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.964
+    type: viseme
+  - id: AO_AW
+    start: 4.013
+    type: viseme
+  - id: EH_AE_AY
+    start: 4.132
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.174
+    type: viseme
+  - id: M_B_P
+    start: 4.209
+    type: viseme
+  - id: EY
+    start: 4.324
+    type: viseme
+  - id: M_B_P
+    start: 4.409
+    type: viseme
+  - id: AA_AH
+    start: 4.492
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.525
+    type: viseme
+  - id: AA_AH
+    start: 4.596
+    type: viseme
+  - id: R_ER
+    start: 4.639
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.695
+    type: viseme
+  - id: AO_AW
+    start: 4.759
+    type: viseme
+  - id: EY
+    start: 4.891
+    type: viseme
+  - id: AA_AH
+    start: 4.947
+    type: viseme
+  - id: AA_AH
+    start: 5.049
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.159
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.242
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.285
+    type: viseme
+  - id: EY
+    start: 5.387
+    type: viseme
+  - id: EY
+    start: 5.534
+    type: viseme
+  - id: AA_AH
+    start: 5.59
+    type: viseme
+  - id: IDLE
+    start: 5.751
+    type: viseme
+  - id: M_B_P
+    start: 6.144
+    type: viseme
+  - id: AA_AH
+    start: 6.161
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.21
+    type: viseme
+  - id: AO_AW
+    start: 6.245
+    type: viseme
+  - id: EH_AE_AY
+    start: 6.333
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.375
+    type: viseme
+  - id: EY
+    start: 6.43
+    type: viseme
+  - id: AO_AW
+    start: 6.52
+    type: viseme
+  - id: M_B_P
+    start: 6.562
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.651
+    type: viseme
+  - id: EY
+    start: 6.716
+    type: viseme
+  - id: AO_AW
+    start: 6.826
+    type: viseme
+  - id: EY
+    start: 6.896
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.941
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.967
+    type: viseme
+  - id: EY
+    start: 7.018
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.056
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.158
+    type: viseme
+  - id: AA_AH
+    start: 7.252
+    type: viseme
+  - id: M_B_P
+    start: 7.352
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.415
+    type: viseme
+  - id: AA_AH
+    start: 7.486
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.523
+    type: viseme
+  - id: IDLE
+    start: 7.683
+    type: viseme
+  - id: AA_AH
+    start: 7.876
+    type: viseme
+  - id: AA_AH
+    start: 7.992
+    type: viseme
+  - id: AA_AH
+    start: 8.093
+    type: viseme
+  - id: N_NG_D_Z
+    start: 8.133
+    type: viseme
+  - id: N_NG_D_Z
+    start: 8.211
+    type: viseme
+  - id: EY
+    start: 8.325
+    type: viseme
+  - id: AO_AW
+    start: 8.455
+    type: viseme
+  - id: EH_AE_AY
+    start: 8.565
+    type: viseme
+  - id: N_NG_D_Z
+    start: 8.614
+    type: viseme
+  - id: EY
+    start: 8.676
+    type: viseme
+  - id: AO_AW
+    start: 8.814
+    type: viseme
+  - id: AA_AH
+    start: 8.888
+    type: viseme
+  - id: R_ER
+    start: 8.927
+    type: viseme
+  - id: N_NG_D_Z
+    start: 8.973
+    type: viseme
+  - id: AO_AW
+    start: 9.043
+    type: viseme
+  - id: EY
+    start: 9.189
+    type: viseme
+  - id: AA_AH
+    start: 9.272
+    type: viseme
+  - id: IDLE
+    start: 9.456
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/explain.wav
+  text: '" In noisy places like here , it is hard for a robot to understand  what
+    people are doing and saying . But when you  play with this tablet,  I can see
+    what you  are doing."'
+game_initialize:
+  behaviors:
+  - id: blink
+    start: 1.294
+    type: action
+  - id: R_ER
+    start: 0.047
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.125
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.186
+    type: viseme
+  - id: EY
+    start: 0.223
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.305
+    type: viseme
+  - id: AO_AW
+    start: 0.366
+    type: viseme
+  - id: M_B_P
+    start: 0.428
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.551
+    type: viseme
+  - id: EY
+    start: 0.621
+    type: viseme
+  - id: IDLE
+    start: 0.9
+    type: viseme
+  - id: M_B_P
+    start: 1.294
+    type: viseme
+  - id: EY
+    start: 1.412
+    type: viseme
+  - id: AA_AH
+    start: 1.502
+    type: viseme
+  - id: M_B_P
+    start: 1.589
+    type: viseme
+  - id: EY
+    start: 1.657
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.746
+    type: viseme
+  - id: AO_AW
+    start: 1.827
+    type: viseme
+  - id: AA_AH
+    start: 1.919
+    type: viseme
+  - id: AA_AH
+    start: 2.047
+    type: viseme
+  - id: AO_AW
+    start: 2.193
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.419
+    type: viseme
+  - id: IDLE
+    start: 2.525
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/game_initialize.wav
+  text: '"Ready to play? Make me look good!"'
+game_introduce:
+  behaviors:
+  - id: lookright
+    start: 1.088
+    type: action
+  - id: blink
+    start: 4.075
+    type: action
+  - id: lookleft
+    start: 5.782
+    type: action
+  - id: blink
+    start: 6.62
+    type: action
+  - id: neutral
+    start: 7.758
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.157
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.237
+    type: viseme
+  - id: EY
+    start: 0.296
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.357
+    type: viseme
+  - id: AA_AH
+    start: 0.468
+    type: viseme
+  - id: EY
+    start: 0.555
+    type: viseme
+  - id: M_B_P
+    start: 0.752
+    type: viseme
+  - id: IDLE
+    start: 0.895
+    type: viseme
+  - id: EY
+    start: 1.088
+    type: viseme
+  - id: AO_AW
+    start: 1.219
+    type: viseme
+  - id: AA_AH
+    start: 1.279
+    type: viseme
+  - id: AA_AH
+    start: 1.359
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.393
+    type: viseme
+  - id: AA_AH
+    start: 1.46
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.525
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.6
+    type: viseme
+  - id: M_B_P
+    start: 1.696
+    type: viseme
+  - id: M_B_P
+    start: 1.762
+    type: viseme
+  - id: EY
+    start: 1.828
+    type: viseme
+  - id: AA_AH
+    start: 1.899
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.988
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.074
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.159
+    type: viseme
+  - id: AA_AH
+    start: 2.226
+    type: viseme
+  - id: M_B_P
+    start: 2.275
+    type: viseme
+  - id: AA_AH
+    start: 2.374
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.475
+    type: viseme
+  - id: M_B_P
+    start: 2.565
+    type: viseme
+  - id: AA_AH
+    start: 2.646
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.776
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.878
+    type: viseme
+  - id: AA_AH
+    start: 2.938
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.147
+    type: viseme
+  - id: IDLE
+    start: 3.292
+    type: viseme
+  - id: M_B_P
+    start: 3.685
+    type: viseme
+  - id: EY
+    start: 3.756
+    type: viseme
+  - id: AA_AH
+    start: 3.8
+    type: viseme
+  - id: AA_AH
+    start: 3.892
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.022
+    type: viseme
+  - id: AA_AH
+    start: 4.075
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.128
+    type: viseme
+  - id: AO_AW
+    start: 4.278
+    type: viseme
+  - id: AA_AH
+    start: 4.358
+    type: viseme
+  - id: EY
+    start: 4.415
+    type: viseme
+  - id: AO_AW
+    start: 4.504
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.581
+    type: viseme
+  - id: EY
+    start: 4.671
+    type: viseme
+  - id: AA_AH
+    start: 4.712
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.781
+    type: viseme
+  - id: EY
+    start: 4.82
+    type: viseme
+  - id: AA_AH
+    start: 4.919
+    type: viseme
+  - id: R_ER
+    start: 5.0
+    type: viseme
+  - id: AO_AW
+    start: 5.118
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.218
+    type: viseme
+  - id: IDLE
+    start: 5.395
+    type: viseme
+  - id: AA_AH
+    start: 5.589
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.672
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.741
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.782
+    type: viseme
+  - id: EH_AE_AY
+    start: 5.821
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.873
+    type: viseme
+  - id: AA_AH
+    start: 5.936
+    type: viseme
+  - id: EY
+    start: 6.023
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.092
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.171
+    type: viseme
+  - id: EH_AE_AY
+    start: 6.278
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.329
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.382
+    type: viseme
+  - id: AA_AH
+    start: 6.418
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.512
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.566
+    type: viseme
+  - id: AA_AH
+    start: 6.62
+    type: viseme
+  - id: AO_AW
+    start: 6.795
+    type: viseme
+  - id: EY
+    start: 6.872
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.93
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.981
+    type: viseme
+  - id: R_ER
+    start: 7.075
+    type: viseme
+  - id: AA_AH
+    start: 7.161
+    type: viseme
+  - id: EY
+    start: 7.301
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.338
+    type: viseme
+  - id: AA_AH
+    start: 7.407
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.627
+    type: viseme
+  - id: IDLE
+    start: 7.758
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/game_introduce.wav
+  text: '"In this game , you can help me customize my style. Pick  out a look using
+    the arrows , and then hit  send and I will try it on ."'
+green:
+  behaviors:
+  - id: blink
+    start: 0.047
+    type: action
+  - id: neutral
+    start: 2.198
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.136
+    type: viseme
+  - id: M_B_P
+    start: 0.272
+    type: viseme
+  - id: AA_AH
+    start: 0.354
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.515
+    type: viseme
+  - id: EY
+    start: 0.603
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.635
+    type: viseme
+  - id: AA_AH
+    start: 0.72
+    type: viseme
+  - id: R_ER
+    start: 0.824
+    type: viseme
+  - id: EY
+    start: 0.882
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.046
+    type: viseme
+  - id: IDLE
+    start: 1.158
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.551
+    type: viseme
+  - id: EY
+    start: 1.598
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.718
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.777
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.844
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.931
+    type: viseme
+  - id: AA_AH
+    start: 1.975
+    type: viseme
+  - id: AA_AH
+    start: 2.087
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.198
+    type: viseme
+  - id: AA_AH
+    start: 2.238
+    type: viseme
+  - id: M_B_P
+    start: 2.459
+    type: viseme
+  - id: IDLE
+    start: 2.6
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/green.wav
+  text: '" My mouth  is green! Tastes like  lime."'
+multi_animal:
+  behaviors:
+  - id: blink
+    start: 0.619
+    type: action
+  - id: lookleft
+    start: 1.786
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.158
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.227
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.299
+    type: viseme
+  - id: AA_AH
+    start: 0.366
+    type: viseme
+  - id: R_ER
+    start: 0.443
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.48
+    type: viseme
+  - id: EY
+    start: 0.506
+    type: viseme
+  - id: AA_AH
+    start: 0.541
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.619
+    type: viseme
+  - id: AO_AW
+    start: 0.665
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.71
+    type: viseme
+  - id: AO_AW
+    start: 0.832
+    type: viseme
+  - id: AA_AH
+    start: 0.939
+    type: viseme
+  - id: M_B_P
+    start: 1.028
+    type: viseme
+  - id: R_ER
+    start: 1.135
+    type: viseme
+  - id: EY
+    start: 1.176
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.202
+    type: viseme
+  - id: EY
+    start: 1.24
+    type: viseme
+  - id: AA_AH
+    start: 1.315
+    type: viseme
+  - id: EY
+    start: 1.393
+    type: viseme
+  - id: AO_AW
+    start: 1.525
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.638
+    type: viseme
+  - id: IDLE
+    start: 1.786
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_animal.wav
+  text: '"I''m starting  to look pretty cute !"'
+multi_astronaut:
+  behaviors:
+  - id: blink
+    start: 0.631
+    type: action
+  - id: lookleft
+    start: 1.404
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.145
+    type: viseme
+  - id: M_B_P
+    start: 0.227
+    type: viseme
+  - id: EY
+    start: 0.329
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.428
+    type: viseme
+  - id: EY
+    start: 0.499
+    type: viseme
+  - id: AA_AH
+    start: 0.546
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.631
+    type: viseme
+  - id: M_B_P
+    start: 0.738
+    type: viseme
+  - id: EY
+    start: 0.819
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.934
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.009
+    type: viseme
+  - id: AA_AH
+    start: 1.091
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.269
+    type: viseme
+  - id: IDLE
+    start: 1.404
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_astronaut.wav
+  text: '"I''m feeling  spaced out ."'
+multi_clown:
+  behaviors:
+  - id: blink
+    start: 0.619
+    type: action
+  - id: lookright
+    start: 1.418
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.158
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.227
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.299
+    type: viseme
+  - id: AA_AH
+    start: 0.366
+    type: viseme
+  - id: R_ER
+    start: 0.443
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.48
+    type: viseme
+  - id: EY
+    start: 0.506
+    type: viseme
+  - id: AA_AH
+    start: 0.541
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.619
+    type: viseme
+  - id: AO_AW
+    start: 0.658
+    type: viseme
+  - id: M_B_P
+    start: 0.719
+    type: viseme
+  - id: EY
+    start: 0.863
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.931
+    type: viseme
+  - id: M_B_P
+    start: 1.018
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.126
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.194
+    type: viseme
+  - id: EY
+    start: 1.243
+    type: viseme
+  - id: IDLE
+    start: 1.418
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_clown.wav
+  text: '"I''m starting  to feel funny ."'
+multi_dinosaur:
+  behaviors:
+  - id: blink
+    start: 0.614
+    type: action
+  - id: lookright
+    start: 2.177
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.163
+    type: viseme
+  - id: M_B_P
+    start: 0.252
+    type: viseme
+  - id: EY
+    start: 0.342
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.44
+    type: viseme
+  - id: EY
+    start: 0.498
+    type: viseme
+  - id: AA_AH
+    start: 0.541
+    type: viseme
+  - id: M_B_P
+    start: 0.614
+    type: viseme
+  - id: AA_AH
+    start: 0.695
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.862
+    type: viseme
+  - id: M_B_P
+    start: 0.93
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.06
+    type: viseme
+  - id: IDLE
+    start: 1.261
+    type: viseme
+  - id: EY
+    start: 1.455
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.509
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.581
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.652
+    type: viseme
+  - id: AA_AH
+    start: 1.752
+    type: viseme
+  - id: M_B_P
+    start: 1.946
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.043
+    type: viseme
+  - id: IDLE
+    start: 2.177
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_dinosaur.wav
+  text: '"I''m feeling  powerful, yet soft ."'
+multi_doctor:
+  behaviors:
+  - id: blink
+    start: 0.719
+    type: action
+  - id: lookright
+    start: 1.895
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.158
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.227
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.299
+    type: viseme
+  - id: AA_AH
+    start: 0.366
+    type: viseme
+  - id: R_ER
+    start: 0.443
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.48
+    type: viseme
+  - id: EY
+    start: 0.506
+    type: viseme
+  - id: AA_AH
+    start: 0.541
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.619
+    type: viseme
+  - id: AO_AW
+    start: 0.658
+    type: viseme
+  - id: M_B_P
+    start: 0.719
+    type: viseme
+  - id: EY
+    start: 0.869
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.97
+    type: viseme
+  - id: AA_AH
+    start: 1.073
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.115
+    type: viseme
+  - id: AA_AH
+    start: 1.204
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.309
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.387
+    type: viseme
+  - id: M_B_P
+    start: 1.48
+    type: viseme
+  - id: AA_AH
+    start: 1.562
+    type: viseme
+  - id: R_ER
+    start: 1.652
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.695
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.73
+    type: viseme
+  - id: IDLE
+    start: 1.895
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_doctor.wav
+  text: '"I''m starting to  feel a lot smarter ."'
+multi_none:
+  behaviors:
+  - id: blink
+    start: 1.112
+    type: action
+  - id: lookright
+    start: 2.034
+    type: action
+  - id: AO_AW
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.182
+    type: viseme
+  - id: EY
+    start: 0.244
+    type: viseme
+  - id: R_ER
+    start: 0.34
+    type: viseme
+  - id: IDLE
+    start: 0.489
+    type: viseme
+  - id: AO_AW
+    start: 0.882
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.984
+    type: viseme
+  - id: R_ER
+    start: 1.034
+    type: viseme
+  - id: AA_AH
+    start: 1.112
+    type: viseme
+  - id: R_ER
+    start: 1.174
+    type: viseme
+  - id: M_B_P
+    start: 1.23
+    type: viseme
+  - id: AA_AH
+    start: 1.334
+    type: viseme
+  - id: AA_AH
+    start: 1.476
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.585
+    type: viseme
+  - id: AO_AW
+    start: 1.65
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.854
+    type: viseme
+  - id: IDLE
+    start: 2.034
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_none.wav
+  text: '"Oh dear! Where  are my clothes ?"'
+multi_surgeon:
+  behaviors:
+  - id: blink
+    start: 0.772
+    type: action
+  - id: lookleft
+    start: 1.967
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.18
+    type: viseme
+  - id: EY
+    start: 0.292
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.37
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.473
+    type: viseme
+  - id: AA_AH
+    start: 0.509
+    type: viseme
+  - id: AA_AH
+    start: 0.583
+    type: viseme
+  - id: AA_AH
+    start: 0.653
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.679
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.772
+    type: viseme
+  - id: AA_AH
+    start: 0.872
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.938
+    type: viseme
+  - id: M_B_P
+    start: 1.005
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.092
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.209
+    type: viseme
+  - id: EY
+    start: 1.286
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.383
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.467
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.595
+    type: viseme
+  - id: M_B_P
+    start: 1.647
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.715
+    type: viseme
+  - id: EY
+    start: 1.784
+    type: viseme
+  - id: AA_AH
+    start: 1.838
+    type: viseme
+  - id: IDLE
+    start: 1.967
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_surgeon.wav
+  text: '"I feel like an  expert in something ."'
+multi_teacher:
+  behaviors:
+  - id: blink
+    start: 0.464
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: M_B_P
+    start: 0.18
+    type: viseme
+  - id: EY
+    start: 0.292
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.37
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.464
+    type: viseme
+  - id: AA_AH
+    start: 0.561
+    type: viseme
+  - id: AA_AH
+    start: 0.615
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.723
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.808
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.864
+    type: viseme
+  - id: EY
+    start: 0.965
+    type: viseme
+  - id: IDLE
+    start: 1.138
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_teacher.wav
+  text: '"I feel  scholarly."'
+multi_wizard:
+  behaviors:
+  - id: blink
+    start: 0.619
+    type: action
+  - id: lookleft
+    start: 1.791
+    type: action
+  - id: N_NG_D_Z
+    start: 0.047
+    type: viseme
+  - id: AO_AW
+    start: 0.067
+    type: viseme
+  - id: EY
+    start: 0.107
+    type: viseme
+  - id: AO_AW
+    start: 0.219
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.29
+    type: viseme
+  - id: EY
+    start: 0.39
+    type: viseme
+  - id: AA_AH
+    start: 0.448
+    type: viseme
+  - id: AA_AH
+    start: 0.517
+    type: viseme
+  - id: AA_AH
+    start: 0.619
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.746
+    type: viseme
+  - id: EY
+    start: 0.839
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.961
+    type: viseme
+  - id: M_B_P
+    start: 1.008
+    type: viseme
+  - id: AA_AH
+    start: 1.074
+    type: viseme
+  - id: R_ER
+    start: 1.186
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.246
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.349
+    type: viseme
+  - id: AA_AH
+    start: 1.415
+    type: viseme
+  - id: R_ER
+    start: 1.575
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.655
+    type: viseme
+  - id: IDLE
+    start: 1.791
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/multi_wizard.wav
+  text: '"Do you think  I need more stars ?"'
+purple:
+  behaviors:
+  - id: AO_AW
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.188
+    type: viseme
+  - id: IDLE
+    start: 0.546
+    type: viseme
+  - id: M_B_P
+    start: 0.74
+    type: viseme
+  - id: AA_AH
+    start: 0.829
+    type: viseme
+  - id: M_B_P
+    start: 0.966
+    type: viseme
+  - id: AA_AH
+    start: 1.048
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.208
+    type: viseme
+  - id: EY
+    start: 1.28
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.322
+    type: viseme
+  - id: M_B_P
+    start: 1.406
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.546
+    type: viseme
+  - id: M_B_P
+    start: 1.635
+    type: viseme
+  - id: AA_AH
+    start: 1.72
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.757
+    type: viseme
+  - id: IDLE
+    start: 1.907
+    type: viseme
+  - id: AA_AH
+    start: 2.301
+    type: viseme
+  - id: M_B_P
+    start: 2.442
+    type: viseme
+  - id: EY
+    start: 2.579
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.647
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.738
+    type: viseme
+  - id: AO_AW
+    start: 2.856
+    type: viseme
+  - id: M_B_P
+    start: 2.95
+    type: viseme
+  - id: AA_AH
+    start: 3.052
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.161
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.226
+    type: viseme
+  - id: EY
+    start: 3.308
+    type: viseme
+  - id: IDLE
+    start: 3.492
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/purple.wav
+  text: '"Wow, my mouth is purple! I feel so fancy."'
+rand1:
+  behaviors:
+  - id: blink
+    start: 1.01
+    type: action
+  - id: lookleft
+    start: 1.76
+    type: action
+  - id: N_NG_D_Z
+    start: 0.047
+    type: viseme
+  - id: EY
+    start: 0.119
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.271
+    type: viseme
+  - id: IDLE
+    start: 0.407
+    type: viseme
+  - id: AO_AW
+    start: 0.8
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.92
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.98
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.01
+    type: viseme
+  - id: AO_AW
+    start: 1.088
+    type: viseme
+  - id: EY
+    start: 1.127
+    type: viseme
+  - id: AO_AW
+    start: 1.267
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.328
+    type: viseme
+  - id: EY
+    start: 1.446
+    type: viseme
+  - id: AA_AH
+    start: 1.549
+    type: viseme
+  - id: AA_AH
+    start: 1.638
+    type: viseme
+  - id: IDLE
+    start: 1.76
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand1.wav
+  text: '"Neat! What  do you think ?"'
+rand2:
+  behaviors:
+  - id: blink
+    start: 1.234
+    type: action
+  - id: lookright
+    start: 2.127
+    type: action
+  - id: AO_AW
+    start: 0.047
+    type: viseme
+  - id: AO_AW
+    start: 0.209
+    type: viseme
+  - id: IDLE
+    start: 0.463
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.854
+    type: viseme
+  - id: EY
+    start: 0.935
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.018
+    type: viseme
+  - id: EY
+    start: 1.126
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.165
+    type: viseme
+  - id: AA_AH
+    start: 1.234
+    type: viseme
+  - id: M_B_P
+    start: 1.275
+    type: viseme
+  - id: R_ER
+    start: 1.383
+    type: viseme
+  - id: AA_AH
+    start: 1.444
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.536
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.59
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.628
+    type: viseme
+  - id: AO_AW
+    start: 1.7
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.773
+    type: viseme
+  - id: AO_AW
+    start: 1.864
+    type: viseme
+  - id: AA_AH
+    start: 1.993
+    type: viseme
+  - id: IDLE
+    start: 2.127
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand2.wav
+  text: '"Whoa! This is  a brand new look !"'
+rand3:
+  behaviors:
+  - id: blink
+    start: 0.752
+    type: action
+  - id: lookleft
+    start: 1.532
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.138
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.231
+    type: viseme
+  - id: EY
+    start: 0.275
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.347
+    type: viseme
+  - id: AO_AW
+    start: 0.449
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.507
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.549
+    type: viseme
+  - id: EY
+    start: 0.58
+    type: viseme
+  - id: AO_AW
+    start: 0.694
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.752
+    type: viseme
+  - id: AA_AH
+    start: 0.824
+    type: viseme
+  - id: AA_AH
+    start: 0.901
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.994
+    type: viseme
+  - id: AO_AW
+    start: 1.048
+    type: viseme
+  - id: AO_AW
+    start: 1.093
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.233
+    type: viseme
+  - id: R_ER
+    start: 1.353
+    type: viseme
+  - id: IDLE
+    start: 1.532
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand3.wav
+  text: '"Is this what you  like to wear ?"'
+rand4:
+  behaviors:
+  - id: blink
+    start: 0.655
+    type: action
+  - id: lookright
+    start: 1.701
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.158
+    type: viseme
+  - id: EY
+    start: 0.299
+    type: viseme
+  - id: AA_AH
+    start: 0.357
+    type: viseme
+  - id: AA_AH
+    start: 0.441
+    type: viseme
+  - id: EY
+    start: 0.479
+    type: viseme
+  - id: AO_AW
+    start: 0.561
+    type: viseme
+  - id: R_ER
+    start: 0.588
+    type: viseme
+  - id: AA_AH
+    start: 0.655
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.744
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.803
+    type: viseme
+  - id: AO_AW
+    start: 0.852
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.922
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.035
+    type: viseme
+  - id: M_B_P
+    start: 1.084
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.167
+    type: viseme
+  - id: EY
+    start: 1.233
+    type: viseme
+  - id: AA_AH
+    start: 1.273
+    type: viseme
+  - id: AA_AH
+    start: 1.367
+    type: viseme
+  - id: EY
+    start: 1.427
+    type: viseme
+  - id: R_ER
+    start: 1.516
+    type: viseme
+  - id: IDLE
+    start: 1.701
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand4.wav
+  text: '"I think you''re  on to something here ."'
+rand5:
+  behaviors:
+  - id: blink
+    start: 1.109
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.218
+    type: viseme
+  - id: AA_AH
+    start: 0.404
+    type: viseme
+  - id: IDLE
+    start: 0.501
+    type: viseme
+  - id: AA_AH
+    start: 0.894
+    type: viseme
+  - id: EY
+    start: 0.954
+    type: viseme
+  - id: M_B_P
+    start: 1.023
+    type: viseme
+  - id: AA_AH
+    start: 1.109
+    type: viseme
+  - id: AO_AW
+    start: 1.189
+    type: viseme
+  - id: EY
+    start: 1.273
+    type: viseme
+  - id: AA_AH
+    start: 1.365
+    type: viseme
+  - id: IDLE
+    start: 1.492
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand5.wav
+  text: '"Yeah! Keep  going!"'
+rand6:
+  behaviors:
+  - id: blink
+    start: 0.938
+    type: action
+  - id: lookleft
+    start: 1.751
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.107
+    type: viseme
+  - id: AA_AH
+    start: 0.245
+    type: viseme
+  - id: M_B_P
+    start: 0.298
+    type: viseme
+  - id: AA_AH
+    start: 0.363
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.481
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.533
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.607
+    type: viseme
+  - id: M_B_P
+    start: 0.667
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.75
+    type: viseme
+  - id: EY
+    start: 0.818
+    type: viseme
+  - id: AA_AH
+    start: 0.847
+    type: viseme
+  - id: M_B_P
+    start: 0.938
+    type: viseme
+  - id: AA_AH
+    start: 1.012
+    type: viseme
+  - id: R_ER
+    start: 1.137
+    type: viseme
+  - id: M_B_P
+    start: 1.171
+    type: viseme
+  - id: AA_AH
+    start: 1.266
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.354
+    type: viseme
+  - id: EY
+    start: 1.447
+    type: viseme
+  - id: AA_AH
+    start: 1.476
+    type: viseme
+  - id: AA_AH
+    start: 1.564
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.592
+    type: viseme
+  - id: IDLE
+    start: 1.751
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand6.wav
+  text: '"How about something  more magical ?"'
+rand7:
+  behaviors:
+  - id: blink
+    start: 0.962
+    type: action
+  - id: lookright
+    start: 1.829
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.107
+    type: viseme
+  - id: AA_AH
+    start: 0.245
+    type: viseme
+  - id: M_B_P
+    start: 0.298
+    type: viseme
+  - id: AA_AH
+    start: 0.363
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.481
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.533
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.613
+    type: viseme
+  - id: M_B_P
+    start: 0.665
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.731
+    type: viseme
+  - id: EY
+    start: 0.819
+    type: viseme
+  - id: AA_AH
+    start: 0.85
+    type: viseme
+  - id: M_B_P
+    start: 0.962
+    type: viseme
+  - id: AA_AH
+    start: 1.0
+    type: viseme
+  - id: R_ER
+    start: 1.091
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.14
+    type: viseme
+  - id: R_ER
+    start: 1.203
+    type: viseme
+  - id: AA_AH
+    start: 1.243
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.275
+    type: viseme
+  - id: EY
+    start: 1.332
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.395
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.506
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.583
+    type: viseme
+  - id: IDLE
+    start: 1.829
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand7.wav
+  text: '"How about something  more traditional ?"'
+rand8:
+  behaviors:
+  - id: blink
+    start: 0.946
+    type: action
+  - id: lookleft
+    start: 1.711
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.107
+    type: viseme
+  - id: AA_AH
+    start: 0.245
+    type: viseme
+  - id: M_B_P
+    start: 0.298
+    type: viseme
+  - id: AA_AH
+    start: 0.363
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.481
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.533
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.607
+    type: viseme
+  - id: M_B_P
+    start: 0.667
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.75
+    type: viseme
+  - id: EY
+    start: 0.811
+    type: viseme
+  - id: AA_AH
+    start: 0.847
+    type: viseme
+  - id: M_B_P
+    start: 0.946
+    type: viseme
+  - id: AA_AH
+    start: 1.02
+    type: viseme
+  - id: R_ER
+    start: 1.112
+    type: viseme
+  - id: AO_AW
+    start: 1.174
+    type: viseme
+  - id: AA_AH
+    start: 1.296
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.489
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.619
+    type: viseme
+  - id: IDLE
+    start: 1.711
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/rand8.wav
+  text: '"How about something  more wild ?"'
+red:
+  behaviors:
+  - id: blink
+    start: 0.047
+    type: action
+  - id: neutral
+    start: 1.843
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.147
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.207
+    type: viseme
+  - id: AO_AW
+    start: 0.298
+    type: viseme
+  - id: AA_AH
+    start: 0.356
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.431
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.505
+    type: viseme
+  - id: AA_AH
+    start: 0.535
+    type: viseme
+  - id: AA_AH
+    start: 0.627
+    type: viseme
+  - id: M_B_P
+    start: 0.715
+    type: viseme
+  - id: AA_AH
+    start: 0.795
+    type: viseme
+  - id: M_B_P
+    start: 0.877
+    type: viseme
+  - id: AA_AH
+    start: 0.975
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.185
+    type: viseme
+  - id: EY
+    start: 1.296
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.338
+    type: viseme
+  - id: M_B_P
+    start: 1.42
+    type: viseme
+  - id: AA_AH
+    start: 1.489
+    type: viseme
+  - id: AA_AH
+    start: 1.607
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.712
+    type: viseme
+  - id: AO_AW
+    start: 1.779
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.843
+    type: viseme
+  - id: AA_AH
+    start: 1.931
+    type: viseme
+  - id: R_ER
+    start: 2.042
+    type: viseme
+  - id: M_B_P
+    start: 2.086
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.156
+    type: viseme
+  - id: IDLE
+    start: 2.329
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/red.wav
+  text: '" It looks like my mouth is back to  normal."'
+self_introduce:
+  behaviors:
+  - id: blink
+    start: 0.743
+    type: action
+  - id: lookleft
+    start: 3.261
+    type: action
+  - id: blink
+    start: 4.19
+    type: action
+  - id: blink
+    start: 6.424
+    type: action
+  - id: lookright
+    start: 8.366
+    type: action
+  - id: blink
+    start: 9.489
+    type: action
+  - id: neutral
+    start: 11.419
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.126
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.169
+    type: viseme
+  - id: AO_AW
+    start: 0.306
+    type: viseme
+  - id: IDLE
+    start: 0.55
+    type: viseme
+  - id: M_B_P
+    start: 0.743
+    type: viseme
+  - id: AA_AH
+    start: 0.838
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.001
+    type: viseme
+  - id: EY
+    start: 1.103
+    type: viseme
+  - id: M_B_P
+    start: 1.269
+    type: viseme
+  - id: EY
+    start: 1.353
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.43
+    type: viseme
+  - id: AA_AH
+    start: 1.539
+    type: viseme
+  - id: M_B_P
+    start: 1.796
+    type: viseme
+  - id: EY
+    start: 1.864
+    type: viseme
+  - id: IDLE
+    start: 2.043
+    type: viseme
+  - id: AA_AH
+    start: 2.436
+    type: viseme
+  - id: AA_AH
+    start: 2.494
+    type: viseme
+  - id: M_B_P
+    start: 2.598
+    type: viseme
+  - id: AA_AH
+    start: 2.654
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.706
+    type: viseme
+  - id: AO_AW
+    start: 2.853
+    type: viseme
+  - id: CH_SH_ZH
+    start: 2.965
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.06
+    type: viseme
+  - id: EY
+    start: 3.162
+    type: viseme
+  - id: AA_AH
+    start: 3.261
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.303
+    type: viseme
+  - id: EY
+    start: 3.43
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.498
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.576
+    type: viseme
+  - id: EY
+    start: 3.643
+    type: viseme
+  - id: M_B_P
+    start: 3.692
+    type: viseme
+  - id: R_ER
+    start: 3.769
+    type: viseme
+  - id: AO_AW
+    start: 3.833
+    type: viseme
+  - id: M_B_P
+    start: 3.893
+    type: viseme
+  - id: AA_AH
+    start: 3.972
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.11
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.19
+    type: viseme
+  - id: AA_AH
+    start: 4.236
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.336
+    type: viseme
+  - id: EY
+    start: 4.366
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.443
+    type: viseme
+  - id: AA_AH
+    start: 4.517
+    type: viseme
+  - id: AO_AW
+    start: 4.584
+    type: viseme
+  - id: EY
+    start: 4.726
+    type: viseme
+  - id: AA_AH
+    start: 4.784
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.846
+    type: viseme
+  - id: AO_AW
+    start: 4.9
+    type: viseme
+  - id: AA_AH
+    start: 4.946
+    type: viseme
+  - id: AO_AW
+    start: 5.031
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.142
+    type: viseme
+  - id: AO_AW
+    start: 5.224
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.278
+    type: viseme
+  - id: AA_AH
+    start: 5.411
+    type: viseme
+  - id: AA_AH
+    start: 5.547
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.626
+    type: viseme
+  - id: AO_AW
+    start: 5.666
+    type: viseme
+  - id: CH_SH_ZH
+    start: 5.723
+    type: viseme
+  - id: EY
+    start: 5.849
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.894
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.973
+    type: viseme
+  - id: R_ER
+    start: 6.03
+    type: viseme
+  - id: AA_AH
+    start: 6.089
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.127
+    type: viseme
+  - id: AA_AH
+    start: 6.211
+    type: viseme
+  - id: AO_AW
+    start: 6.304
+    type: viseme
+  - id: AA_AH
+    start: 6.424
+    type: viseme
+  - id: R_ER
+    start: 6.574
+    type: viseme
+  - id: EY
+    start: 6.644
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.722
+    type: viseme
+  - id: N_NG_D_Z
+    start: 6.781
+    type: viseme
+  - id: AA_AH
+    start: 6.813
+    type: viseme
+  - id: AA_AH
+    start: 6.844
+    type: viseme
+  - id: AA_AH
+    start: 6.915
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.017
+    type: viseme
+  - id: M_B_P
+    start: 7.127
+    type: viseme
+  - id: EY
+    start: 7.18
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.207
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.247
+    type: viseme
+  - id: IDLE
+    start: 7.426
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.819
+    type: viseme
+  - id: AA_AH
+    start: 7.873
+    type: viseme
+  - id: N_NG_D_Z
+    start: 7.907
+    type: viseme
+  - id: EY
+    start: 7.978
+    type: viseme
+  - id: AA_AH
+    start: 8.199
+    type: viseme
+  - id: AA_AH
+    start: 8.366
+    type: viseme
+  - id: M_B_P
+    start: 8.426
+    type: viseme
+  - id: AA_AH
+    start: 8.499
+    type: viseme
+  - id: AO_AW
+    start: 8.562
+    type: viseme
+  - id: EY
+    start: 8.651
+    type: viseme
+  - id: AA_AH
+    start: 8.708
+    type: viseme
+  - id: N_NG_D_Z
+    start: 8.777
+    type: viseme
+  - id: AO_AW
+    start: 8.831
+    type: viseme
+  - id: CH_SH_ZH
+    start: 8.905
+    type: viseme
+  - id: AO_AW
+    start: 9.048
+    type: viseme
+  - id: EY
+    start: 9.105
+    type: viseme
+  - id: AO_AW
+    start: 9.228
+    type: viseme
+  - id: AO_AW
+    start: 9.272
+    type: viseme
+  - id: EH_AE_AY
+    start: 9.4
+    type: viseme
+  - id: N_NG_D_Z
+    start: 9.439
+    type: viseme
+  - id: AA_AH
+    start: 9.489
+    type: viseme
+  - id: M_B_P
+    start: 9.548
+    type: viseme
+  - id: N_NG_D_Z
+    start: 9.612
+    type: viseme
+  - id: AA_AH
+    start: 9.656
+    type: viseme
+  - id: AA_AH
+    start: 9.694
+    type: viseme
+  - id: EY
+    start: 9.786
+    type: viseme
+  - id: M_B_P
+    start: 9.962
+    type: viseme
+  - id: N_NG_D_Z
+    start: 10.022
+    type: viseme
+  - id: N_NG_D_Z
+    start: 10.078
+    type: viseme
+  - id: AA_AH
+    start: 10.132
+    type: viseme
+  - id: N_NG_D_Z
+    start: 10.176
+    type: viseme
+  - id: AO_AW
+    start: 10.209
+    type: viseme
+  - id: EY
+    start: 10.303
+    type: viseme
+  - id: AA_AH
+    start: 10.41
+    type: viseme
+  - id: AA_AH
+    start: 10.499
+    type: viseme
+  - id: N_NG_D_Z
+    start: 10.53
+    type: viseme
+  - id: M_B_P
+    start: 10.59
+    type: viseme
+  - id: N_NG_D_Z
+    start: 10.705
+    type: viseme
+  - id: EY
+    start: 10.769
+    type: viseme
+  - id: N_NG_D_Z
+    start: 10.877
+    type: viseme
+  - id: AA_AH
+    start: 10.966
+    type: viseme
+  - id: AA_AH
+    start: 11.013
+    type: viseme
+  - id: EH_AE_AY
+    start: 11.088
+    type: viseme
+  - id: N_NG_D_Z
+    start: 11.189
+    type: viseme
+  - id: EH_AE_AY
+    start: 11.238
+    type: viseme
+  - id: IDLE
+    start: 11.419
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/self_introduce.wav
+  text: '"Hello , my name is Ivy. I am a  socially assistive  robot that is going
+    to go to talk to children  who are in the hospital. Today  I am going to show
+    you  one of the games that we can play  together."'
+sleep:
+  behaviors:
+  - id: blink
+    start: 0.676
+    type: action
+  - id: neutral
+    start: 1.382
+    type: action
+  - id: asleep
+    start: 5.606
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.137
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.182
+    type: viseme
+  - id: AO_AW
+    start: 0.272
+    type: viseme
+  - id: AA_AH
+    start: 0.339
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.407
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.494
+    type: viseme
+  - id: AA_AH
+    start: 0.541
+    type: viseme
+  - id: AA_AH
+    start: 0.602
+    type: viseme
+  - id: AO_AW
+    start: 0.676
+    type: viseme
+  - id: EY
+    start: 0.73
+    type: viseme
+  - id: R_ER
+    start: 0.765
+    type: viseme
+  - id: AA_AH
+    start: 0.814
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.926
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.998
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.081
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.246
+    type: viseme
+  - id: M_B_P
+    start: 1.382
+    type: viseme
+  - id: AA_AH
+    start: 1.456
+    type: viseme
+  - id: R_ER
+    start: 1.487
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.542
+    type: viseme
+  - id: AA_AH
+    start: 1.627
+    type: viseme
+  - id: IDLE
+    start: 1.91
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.304
+    type: viseme
+  - id: AA_AH
+    start: 2.344
+    type: viseme
+  - id: AA_AH
+    start: 2.404
+    type: viseme
+  - id: AA_AH
+    start: 2.48
+    type: viseme
+  - id: EY
+    start: 2.534
+    type: viseme
+  - id: AO_AW
+    start: 2.608
+    type: viseme
+  - id: M_B_P
+    start: 2.654
+    type: viseme
+  - id: AA_AH
+    start: 2.765
+    type: viseme
+  - id: R_ER
+    start: 2.795
+    type: viseme
+  - id: AA_AH
+    start: 2.834
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.908
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.964
+    type: viseme
+  - id: M_B_P
+    start: 3.084
+    type: viseme
+  - id: EY
+    start: 3.158
+    type: viseme
+  - id: AA_AH
+    start: 3.188
+    type: viseme
+  - id: M_B_P
+    start: 3.287
+    type: viseme
+  - id: EY
+    start: 3.338
+    type: viseme
+  - id: IDLE
+    start: 3.582
+    type: viseme
+  - id: AA_AH
+    start: 3.976
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.087
+    type: viseme
+  - id: EY
+    start: 4.21
+    type: viseme
+  - id: AA_AH
+    start: 4.281
+    type: viseme
+  - id: AA_AH
+    start: 4.33
+    type: viseme
+  - id: AA_AH
+    start: 4.423
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.559
+    type: viseme
+  - id: AO_AW
+    start: 4.667
+    type: viseme
+  - id: AA_AH
+    start: 4.736
+    type: viseme
+  - id: AA_AH
+    start: 4.817
+    type: viseme
+  - id: R_ER
+    start: 4.887
+    type: viseme
+  - id: EY
+    start: 4.933
+    type: viseme
+  - id: N_NG_D_Z
+    start: 5.082
+    type: viseme
+  - id: IDLE
+    start: 5.213
+    type: viseme
+  - id: M_B_P
+    start: 5.606
+    type: viseme
+  - id: AA_AH
+    start: 5.634
+    type: viseme
+  - id: IDLE
+    start: 6.018
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/sleep.wav
+  text: '"It looks like  we''re all done  for now. Thank you for helping me! I think
+    I look great!  Bye!"'
+up:
+  behaviors:
+  - id: neutral
+    start: 0.874
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.17
+    type: viseme
+  - id: AA_AH
+    start: 0.277
+    type: viseme
+  - id: EY
+    start: 0.355
+    type: viseme
+  - id: AO_AW
+    start: 0.456
+    type: viseme
+  - id: EY
+    start: 0.58
+    type: viseme
+  - id: AA_AH
+    start: 0.689
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.76
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.874
+    type: viseme
+  - id: M_B_P
+    start: 1.005
+    type: viseme
+  - id: IDLE
+    start: 1.053
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/up.wav
+  text: '"Maki wakes  up!"'
+yello:
+  behaviors:
+  - id: M_B_P
+    start: 0.046
+    type: viseme
+  - id: AA_AH
+    start: 0.125
+    type: viseme
+  - id: M_B_P
+    start: 0.202
+    type: viseme
+  - id: AA_AH
+    start: 0.304
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.483
+    type: viseme
+  - id: EY
+    start: 0.577
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.723
+    type: viseme
+  - id: EY
+    start: 0.795
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.84
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.929
+    type: viseme
+  - id: AO_AW
+    start: 1.049
+    type: viseme
+  - id: IDLE
+    start: 1.258
+    type: viseme
+  - id: EY
+    start: 1.651
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.751
+    type: viseme
+  - id: AA_AH
+    start: 1.905
+    type: viseme
+  - id: IDLE
+    start: 2.077
+    type: viseme
+  - id: EY
+    start: 2.271
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.359
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.4
+    type: viseme
+  - id: EY
+    start: 2.514
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.629
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.702
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.729
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.829
+    type: viseme
+  - id: AA_AH
+    start: 2.943
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.146
+    type: viseme
+  - id: IDLE
+    start: 3.325
+    type: viseme
+  file: /home/tejasr/hydro_workspace/sandbox/maki_demo/sound_files/yello.wav
+  text: '"My mouth is yellow! Yuck, it tastes sour."'
